@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It reduced the amount of time comparing two files. Also comparing them manually there could be human errors which are avoided this way.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Things can go wrong while programming and being able to access previous history of a working file can be really helpful.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+The pros of setting a commit is that it helps to identify various logical changes implemented over a period of time. If a version is automatically saved then we wont know exact change in versions.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Files in programming can be connected so git commits all of them at once, while since google docs treats all files seperately it doesnt save them together
+
+How can you use the commands git log and git diff to view the history of files?
+Git log is the command used to find the commit Id corresponding to a particular idea. Then we use git diff to find the difference in files between two different commits.
+
+How might using version control make you more confident to make changes that could break something?
+Using version control we can find out exactly what change caused the program to break and then we can handle those changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I would like to use Git for maintaining different versions of my code at work. I will be less prone to unexpected failures and also I can use this skill in my resume for my next job.
+
+What happens when you initialize a repository? Why do you need to do it?
+When we initialize a repository using git init, git starts tracking changes for the files present in the repository. This has to be done to start version control
