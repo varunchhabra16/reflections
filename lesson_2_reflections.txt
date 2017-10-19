@@ -8,4 +8,4 @@ What are some situations when branches would be helpful in keeping your history 
 I would like to use a git branch when I am going to work on something contextually different from something what I have made currently. This will help me seperate my production code from active work
 
 View difference graph between two branches
-git log --graph --online master coins
+git log --graph --online master coins,git branch <branchname>, git checkout <branchname>
