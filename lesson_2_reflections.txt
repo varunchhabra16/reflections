@@ -3,3 +3,6 @@ When we initialize a repository using git init command, git starts tracking chan
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area helps to add the files we have edited related to a particular logical change to be commited together. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+I would like to use a git branch when I am going to work on something contextually different from something what I have made currently. This will help me seperate my production code from active work
