@@ -11,7 +11,7 @@ Why do you think some version control systems, like Git, allow saving multiple f
 Files in programming can be connected so git commits all of them at once, while since google docs treats all files seperately it doesnt save them together
 
 How can you use the commands git log and git diff to view the history of files?
-Git log is the command used to find the commit Id corresponding to a particular idea. Then we use git diff to find the difference in files between two different commits.
+Git log is the command used to find the commit Id corresponding to a particular idea. Then we use git diff to find the difference in files between two different commit.
 
 How might using version control make you more confident to make changes that could break something?
 Using version control we can find out exactly what change caused the program to break and then we can handle those changes.
