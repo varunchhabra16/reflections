@@ -20,4 +20,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
 I would like to use Git for maintaining different versions of my code at work. I will be less prone to unexpected failures and also I can use this skill in my resume for my next job.
 
 What happens when you initialize a repository? Why do you need to do it?
-When we initialize a repository using git init, git starts tracking changes for the files present in the repository. This has to be done to start version control
+When we initialize a repository using git init, git starts tracking changes for the files present in the repository. This has to be done to start version control system
